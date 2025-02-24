@@ -1,0 +1,3 @@
+pscp pi@172.20.10.2:[path to raspberry pi file directory `e.g: /home/pi/project/raspiaruco.py`] [path to working directory]
+
+ssh pi@172.20.10.2
